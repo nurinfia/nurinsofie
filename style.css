@@ -313,6 +313,11 @@ p.big {
   align:center;
 }
 
+.footer {
+  background-color: black;
+  padding: 10px;
+}
+
 .article, #contact {
   float: left;
   padding: 50px;
